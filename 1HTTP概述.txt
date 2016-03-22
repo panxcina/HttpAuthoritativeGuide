@@ -1,0 +1,35 @@
+第一章HTTP概述
+	1.2 WEB客户端和服务器
+		1.3.2 URI
+			Uniform Resource Identifier 
+			统一资源标识符
+		1.3.3 URL
+			
+			统一资源定位符
+		1.3.4 URN
+	
+			统一资源名
+	1.4 事务
+		1.4.1 方法
+			HTTP method
+		1.4.2 状态码
+		
+		1.4.3 Web 页面中也可以包含多个对象
+	1.5 报文
+		request message
+		请求报文
+		response message
+		响应报文
+	1.6 连接
+		传输控制协议 
+		Transmission Control Protocol TCP
+		1.6.1 TCP/IP
+		1.6.2 连接、IP地址及端口号
+			网际协议 Internet Protocol  IP
+		1.6.3 使用Telnet实例
+	1.8 Web的结构组件
+		1.8.1 代理
+		1.8.2 缓存
+		1.8.3 网关 gateway
+		1.8.4 隧道 tunnel
+		1.8.5 Agent代理
